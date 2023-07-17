@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/contact-list-react/static/css/main.933f1631.chunk.css",
+    "main.js": "/contact-list-react/static/js/main.c4014552.chunk.js",
+    "main.js.map": "/contact-list-react/static/js/main.c4014552.chunk.js.map",
+    "runtime-main.js": "/contact-list-react/static/js/runtime-main.6b63bfca.js",
+    "runtime-main.js.map": "/contact-list-react/static/js/runtime-main.6b63bfca.js.map",
+    "static/js/2.03e32f27.chunk.js": "/contact-list-react/static/js/2.03e32f27.chunk.js",
+    "static/js/2.03e32f27.chunk.js.map": "/contact-list-react/static/js/2.03e32f27.chunk.js.map",
+    "index.html": "/contact-list-react/index.html",
+    "precache-manifest.6b100d192c1a41b0cc8ee634367f8313.js": "/contact-list-react/precache-manifest.6b100d192c1a41b0cc8ee634367f8313.js",
+    "service-worker.js": "/contact-list-react/service-worker.js",
+    "static/css/main.933f1631.chunk.css.map": "/contact-list-react/static/css/main.933f1631.chunk.css.map",
+    "static/media/add-contact.svg": "/contact-list-react/static/media/add-contact.4f4f88bc.svg",
+    "static/media/bin.svg": "/contact-list-react/static/media/bin.4abe51fd.svg",
+    "static/media/profile.svg": "/contact-list-react/static/media/profile.a7d974ee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b63bfca.js",
+    "static/js/2.03e32f27.chunk.js",
+    "static/css/main.933f1631.chunk.css",
+    "static/js/main.c4014552.chunk.js"
+  ]
+}
